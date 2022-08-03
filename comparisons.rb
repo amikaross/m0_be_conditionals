@@ -61,20 +61,24 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
+#This will print the boolean value true. The integer 4 is less than the integer 9.
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+#This will print the boolean value false. The book variable is assigned the value 3. Since 4 is greater than three, this is false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+#This will print out the boolean value true. 6 (value assigned to variable friends) is greater than 2 (value assigned to variable siblings).
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+#This will print out the boolean value true. 9 (value assigned to variable attendees) is not equal to 8 (value assigned to variable meals)
 
 
 #-------------------
